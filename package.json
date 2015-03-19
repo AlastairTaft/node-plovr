@@ -1,0 +1,23 @@
+{
+  "name": "plovr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "plovr.js",
+  "bin": {
+	"plovr": "plovr.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"example": "plovr test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlastairTaft/node-plovr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlastairTaft/node-plovr/issues"
+  },
+  "homepage": "https://github.com/AlastairTaft/node-plovr"
+}
