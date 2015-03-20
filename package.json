@@ -1,14 +1,14 @@
 {
   "name": "plovr",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Include plovr as a dependency to make the 'plovr' command available in your build scripts",
   "main": "plovr.js",
   "bin": {
-	"plovr": "plovr.js"
+    "plovr": "plovr.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-	"example": "plovr test"
+    "example": "plovr test"
   },
   "repository": {
     "type": "git",
