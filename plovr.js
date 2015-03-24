@@ -7,8 +7,6 @@ var spawn = require('child_process').spawn,
 var args = process.argv.slice(2);
 args.splice(0, 0, '-jar', __dirname + '/plovr.jar');
 
-console.log(args);
-
 var proc = spawn('java', args, { stdio: 'inherit' });
 proc.on('exit', function (code, signal) {
   process.on('exit', function(){
