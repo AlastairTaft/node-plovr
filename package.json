@@ -1,5 +1,5 @@
 {
-  "name": "plovr",
+  "name": "@alastair/plovr",
   "version": "1.0.2",
   "description": "Include plovr as a dependency to make the 'plovr' command available in your build scripts",
   "main": "plovr.js",
