@@ -1,6 +1,6 @@
 {
   "name": "node-plovr",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Include plovr as a dependency to make the 'plovr' command available in your build scripts",
   "keywords": "plovr, closure, compiler, build",
   "main": "plovr.js",
