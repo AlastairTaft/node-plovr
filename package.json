@@ -1,7 +1,8 @@
 {
-  "name": "@alastair/plovr",
-  "version": "1.0.3",
+  "name": "node-plovr",
+  "version": "0.0.1",
   "description": "Include plovr as a dependency to make the 'plovr' command available in your build scripts",
+  "keywords": "plovr, closure, compiler, build",
   "main": "plovr.js",
   "bin": {
     "plovr": "plovr.js"
@@ -14,7 +15,10 @@
     "type": "git",
     "url": "https://github.com/AlastairTaft/node-plovr.git"
   },
-  "author": "Alastair Taft",
+  "author": {
+    "name": "Ally",
+    "email": "alastair@fleep.io"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/AlastairTaft/node-plovr/issues"
