@@ -1,3 +1,6 @@
+# ⚠️ Archived
+This repo is not maintained.
+
 # Plovr as a node package
 
 You can now include plovr as a devDependency and run it as part of your build
